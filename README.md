@@ -1,4 +1,11 @@
 # CF-Second-Repo
 CF102 2nd Day Repo
 
-Testing after staging and before commit....
+## Git
+
+What is Git?
+
+    - A DVCS - 
+    
+(**D**istributed **V**ersion **C**ontrol **S**ystem)
+
