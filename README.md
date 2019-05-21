@@ -5,7 +5,5 @@ CF102 2nd Day Repo
 
 What is Git?
 
-    - A DVCS - 
-    
-(**D**istributed **V**ersion **C**ontrol **S**ystem)
+- A DVCS (**D**istributed **V**ersion **C**ontrol **S**ystem)
 
